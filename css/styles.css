@@ -10,7 +10,7 @@ h3 {
   padding-bottom: 50px;
 }
 
-#resultA, #resultB, #resultC, #resultD, #resultE {
+#resultA, #resultB, #resultC, #resultD, #resultE, #resultF, #citation {
   display: none;
 }
 .radio {
