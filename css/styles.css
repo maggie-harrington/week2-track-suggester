@@ -1,13 +1,19 @@
 body {
   font-family: tahoma;
+  background-color: #f2f2f2;
 }
 h1 {
   text-align: center;
   font-size: 3em;
+  color: white;
 }
 h3 {
-  padding-top: 50px;
+  padding-top: 40px;
   padding-bottom: 50px;
+  font-weight: 600;
+}
+h4 {
+  font-weight: 500;
 }
 
 #resultA, #resultB, #resultC, #resultD, #resultE, #resultF, #citation {
@@ -15,4 +21,10 @@ h3 {
 }
 .radio {
   padding-left: 30px;
+}
+.page-header {
+  background-image: url(../img/background.jpg);
+  padding: 50px;
+  margin-top: 0px;
+
 }
